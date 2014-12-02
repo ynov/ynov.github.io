@@ -4,11 +4,11 @@ title:  "Hello, world!"
 date:   2014-12-02 10:40:14
 categories: posts
 ---
-### Here is a picture of a Parrot!
+### Here is a picture of a parrot hanging on a tree branch
 
 ![Parrot](https://www.dropbox.com/s/jb2iekd1ho9v8j5/parrot.jpg?raw=1)
 
-### Here is a chunk of code
+### And here is a chunk of python code
 
 ```python
 import socket
