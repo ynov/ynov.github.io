@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, world!"
 date:   2014-12-02 10:40:14
-categories: jekyll update
+categories: posts
 ---
 ### Here is a picture of a Parrot!
 
