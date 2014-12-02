@@ -10,7 +10,6 @@ categories: posts
 
 ### Here is a chunk of code
 
-{% endhighlight %}
 ```python
 import socket
 import time
@@ -98,4 +97,3 @@ if __name__ == '__main__':
     s = Server(port=8011)
     s.start()
 ```
-{% endhighlight %}

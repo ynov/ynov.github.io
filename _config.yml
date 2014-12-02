@@ -11,7 +11,7 @@ twitter_username: jekyllrb
 github_username:  ynov
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 kramdown:
   input: GFM
